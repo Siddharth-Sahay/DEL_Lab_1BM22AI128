@@ -1,0 +1,1 @@
+Implement a program  aimed at constructing and training a multilayer perceptron tailored for a specific task showcasing the backprpagation algorithm construct a netwrk wit linear input layer tanh and relu activation for the hidden layer and sigmoid and softmax activation for the output layer
